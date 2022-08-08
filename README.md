@@ -1,4 +1,8 @@
 # Renovation-survey
+# This is the repository for the Moscow Renovation survey project
+# Marques and Zakharov (2022)
+# Borisova, Smyth, and Zakharov (2022)
+
 \raw_data\renovation_1400_source.sav
 \raw_data\renovation_1400_source.dta
 \raw_data\renovation_600_source.sav
