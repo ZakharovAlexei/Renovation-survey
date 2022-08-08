@@ -16,9 +16,6 @@
 \compile_workfile_1400.do - Stata code to compile the workfile for the matched pairs sample
 \relabel.do - Stata code to generate English labels and value labels
 
-\sample\moscowbuildings2.dta - list of Moscow buildings
-\sample\duma2016.dta - Duma 2016 election results, used to produce within-raion sample of buildings
-\sample\match_sample_replicate_final.do - Stata code to produce the within-UIK sample of buildings
 \sample\sample_1_comment.xls - output of the within-UIK sampling procedure, with notes and erratum
 \sample\sample_2_comment.xls - output of the within-raion sampling procedure, with notes and erratum
 
