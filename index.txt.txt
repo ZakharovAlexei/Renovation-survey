@@ -22,5 +22,5 @@
 \sample\sample_1_comment.xls - output of the within-UIK sampling procedure, with notes and erratum
 \sample\sample_2_comment.xls - output of the within-raion sampling procedure, with notes and erratum
 
-\data sources\August 1 decree.pdf - List of buildings approved for renovation by Moscow Mayor Sobianin on August 1 2017
-\data sources\May 2017 list.pdf - List of buildings where vote on renovation was held on May-June 2017
+\data_sources\August 1 decree.pdf - List of buildings approved for renovation by Moscow Mayor Sobianin on August 1 2017
+\data_sources\May 2017 list.pdf - List of buildings where vote on renovation was held on May-June 2017
