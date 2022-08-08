@@ -1,7 +1,7 @@
 # Renovation survey
-### This is the repository for the Moscow Renovation survey project
-### Marques and Zakharov (2022)
-### Borisova, Smyth, and Zakharov (2022)
+### This is the repository for the Moscow Renovation survey project, containing data and replication files for the following papers:
+### I. Marques and A. Zakharov (2022) Redistributive policy and redistribution preferences: The effects of Moscow redevelopment program
+### E. Borisova, R. Smyth, and A. Zakharov (2022) Autocratic Policy and the Accumulation of Pro-social Norms: The Moscow Housing Renovation Program
 
 \raw_data\renovation_1400_source.sav
 \raw_data\renovation_1400_source.dta
