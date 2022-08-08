@@ -2,6 +2,7 @@
 \raw_data\renovation_1400_source.dta
 \raw_data\renovation_600_source.sav
 \raw_data\renovation_600_source.dta - source SPSS files provided by Levada, and their Stata counterparts
+\raw_data\renovation_600_coords.dta - coordinates for sampling points for the city-wide sample
 \raw_data\unom.dta - Stata file linking Levada address codes with Moscow UNOM address codes
 
 \documentation\Levada report 1400.doc - Report by the Levada Center on the matched survey (in Russian)
